@@ -1,1 +1,1 @@
-# scoala-informala-homeworks
+# Tudor Petrovan homeworks
