@@ -1,0 +1,14 @@
+Oct 08, 2016 3:56:00 PM siit.java4.student.Main main
+FINE: In main
+Oct 08, 2016 3:56:01 PM siit.java4.student.Main main
+INFO: start main
+Oct 08, 2016 3:56:01 PM siit.java4.student.Main main
+FINE: before adding  students
+Oct 08, 2016 3:56:01 PM siit.java4.student.Main main
+FINE: after adding students
+Oct 08, 2016 3:56:01 PM siit.java4.student.Main main
+FINE: before creating a repository
+Oct 08, 2016 3:56:01 PM siit.java4.student.Main main
+FINE: after creating a repository
+Oct 08, 2016 3:56:01 PM siit.java4.student.Main main
+INFO: end main
